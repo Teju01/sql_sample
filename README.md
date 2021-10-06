@@ -1,2 +1,2 @@
-# Data analysis using Google sheets
+# SQL samples
 
